@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @pradipchougule0811
+- 👀 I’m interested in Java
+- 🌱 I’m currently learning Jira
+- 💞️ I’m looking to collaborate on sample applications
